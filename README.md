@@ -107,22 +107,6 @@ Review the source code, automation framework, and test architecture on GitHub.
        alt="RestSharp" title="RestSharp" width="36" height="36" />
 </a>
 
-<!-- Test Frameworks -->
-<a href="https://xunit.net/" target="_blank" rel="noreferrer">
-  <img src="./assets/icons/xunit.svg"
-       alt="xUnit" title="xUnit" width="36" height="36" />
-</a>
-
-<a href="https://nunit.org/" target="_blank" rel="noreferrer">
-  <img src="./assets/icons/nunit.svg"
-       alt="NUnit" title="NUnit" width="36" height="36" />
-</a>
-
-<!-- API Automation -->
-<a href="https://smartbear.com/product/ready-api/" target="_blank" rel="noreferrer">
-  <img src="./assets/icons/readyapi.svg"
-       alt="ReadyAPI" title="ReadyAPI" width="36" height="36" />
-</a>
 </p>
 
 ### Socials
